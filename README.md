@@ -1,2 +1,2 @@
-# Telecomunicaicones
+# Telecomuniciones
 Mi primer Repositorio
