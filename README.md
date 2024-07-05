@@ -1,2 +1,2 @@
-# Telecomuniciones
+# Telecomunicaciones
 Mi primer Repositorio
